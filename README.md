@@ -1,2 +1,2 @@
-# C-beginner-projects
+# Cpp-beginner-codes
 A collection of beginner-friendly C++ programs to practice basic syntax, loops, conditionals, and simple functions.
